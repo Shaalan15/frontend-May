@@ -86,3 +86,11 @@ h1.artstart{
     position: relative;
     letter-spacing: 50px;
 }
+
+div.expanded-div{
+  height: 69vh;
+}
+
+div.meow{
+  padding-top: 100px;
+}
